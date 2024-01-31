@@ -6,6 +6,7 @@ console.log(first + second);
 
 let num:number[]=[1,2,3,4,5]
 console.log(num[0])
+console.log(num[0)
 
 let[,,m2,m3]=[1,2,3,4]
 console.log(m2+m3)
