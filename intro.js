@@ -11,7 +11,7 @@ greetings
 console.log(greetings)*/
 //number
 /*function addTwo(num:number){
-    return num + 3
+    return num + 2
 }
 function getUpper(val:string){
     return val.toUpperCase()
