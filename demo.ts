@@ -98,6 +98,8 @@ console.log(sub(25,29))*/
 console.log(someString);
 let x: string='eeeeee'
 console.log(x);
+let x: string='eeeeee'
+console.log(x);
 
 const user={
     name:"davii",
